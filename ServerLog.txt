@@ -1,0 +1,34 @@
+> Fri Apr 26 2019 12:40:11 GMT+0530 (India Standard Time):
+			Connected to mongoDB atlas
+> Fri Apr 26 2019 12:53:21 GMT+0530 (India Standard Time):
+			Connected to mongoDB atlas
+> Fri Apr 26 2019 12:53:50 GMT+0530 (India Standard Time):
+			Connected to mongoDB atlas
+> Fri Apr 26 2019 12:54:58 GMT+0530 (India Standard Time):
+			Connected to mongoDB atlas
+> Fri Apr 26 2019 12:55:33 GMT+0530 (India Standard Time):
+			Connected to mongoDB atlas
+> Fri Apr 26 2019 12:56:09 GMT+0530 (India Standard Time):
+			Connected to mongoDB atlas
+> Fri Apr 26 2019 13:40:38 GMT+0530 (India Standard Time):
+			Connected to mongoDB atlas
+> Fri Apr 26 2019 13:41:58 GMT+0530 (India Standard Time):
+			Connected to mongoDB atlas
+> Fri Apr 26 2019 13:42:06 GMT+0530 (India Standard Time):
+			Connected to mongoDB atlas
+> Sat Sep 21 2019 13:53:58 GMT+0530 (India Standard Time):
+			Connected to mongoDB atlas
+> Sat Sep 21 2019 14:12:57 GMT+0530 (India Standard Time):
+	New Customer: { email: swaroopanand325@gmail.com }
+> Sat Sep 21 2019 14:13:23 GMT+0530 (India Standard Time):
+	Invalid sigin details { email: swaroopanand325@gmail.com }
+> Sat Sep 21 2019 14:14:00 GMT+0530 (India Standard Time):
+	New Customer: { email: swaroopanand325@gmail.com }
+> Sat Sep 21 2019 14:42:36 GMT+0530 (India Standard Time):
+	New Customer: { email: swaroopanand.sa@gmail.com }
+> Sat Sep 21 2019 14:43:24 GMT+0530 (India Standard Time):
+			Connected to mongoDB atlas
+> Sat Sep 21 2019 14:43:43 GMT+0530 (India Standard Time):
+	New Customer: { email: swaroopanand325@gmail.com }
+> Sat Sep 21 2019 14:45:17 GMT+0530 (India Standard Time):
+	Invalid sigin details { email: swaroopanand325@gmail.com }
